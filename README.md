@@ -7,7 +7,7 @@ cd test-docker
 docker build -t test/test-docker .
 ```
 
-## run port 51111
+## run
 
 ```bash
 cd test-docker
